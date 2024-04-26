@@ -1,0 +1,11 @@
+dataset/
+runs/
+test/
+wandb/
+
+# Ignore pth
+best_model.pth
+50_model.pth
+2100_100_model.pth
+{epoch}_model.pth
+
